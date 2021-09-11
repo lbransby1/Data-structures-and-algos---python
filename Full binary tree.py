@@ -13,3 +13,5 @@
 # The number of leaves is at most 2λ - 1.
 
 
+
+print("Full binary tree")
